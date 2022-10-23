@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Neurology",
+    "image": "https://i.ibb.co/JpxHMGv/neurology.jpg",
+    "desc": "In the United States and Canada, neurologists are physicians who have completed a postgraduate training period known as residency specializing in neurology after graduation from medical school. This additional training period typically lasts four years, with the first year devoted to training in internal medicine.[9] On average, neurologists complete a total of eight to ten years of training. This includes four years of medical school, four years of residency and an optional one to two years of fellowship. "
+    
+  },
+  {
+    "id": 2,
+    "name": "Gynecology",
+    "image": "https://i.ibb.co/30qxz1g/gynecology.jpg",
+    "desc": "In the medical schools of the early nineteenth century, doctors did not study female reproductive anatomy, seen as repulsive, nor train in pregnancy and childbirth management. That women, because of their anatomy and the risks of the dangerous birthing process, had unique medical concerns and challenges, enough that a doctor might specialize in them, is an innovation widely credited to J. Marion Sims and to a lesser extent his trainee and partner Nathan Bozeman, physicians from Montgomery, Alabama. Sims is widely considered to be the father of modern gynaecology.[9] While there have been isolated precedents for some of his innovations, he was the first to have published on the Sims' position, the Sims' speculum, the Sims sigmoid catheter, and on gynecological surgery, first on repair of vesico-vaginal fistulas, a socially devastating consequence of protracted childbirth, at the time without treatment of any sort. He founded the first women's hospital in the country, first in his backyard in Montgomery, limited to Black enslaved women, then the Woman's Hospital of New York."
+  },
+  {
+    "id": 3,
+    "name": "Cardiology",
+    "image": "https://i.ibb.co/xmb699V/cardiology.jpg",
+    "desc": "All cardiologists study the disorders of the heart, but the study of adult and child heart disorders each require different training pathways. Therefore, an adult cardiologist (often simply called inadequately trained to take care of children, and pediatric cardiologists are not trained to treat adult heart disease. Surgical aspects are not included in cardiology and are in the domain of cardiothoracic surgery. For example, coronary artery bypass surgery (CABG), cardiopulmonary bypass and valve replacement are surgical procedures performed by surgeons, not cardiologists. However, some minimally invasive procedures such as cardiac catheterization and pacemaker implantation are performed by cardiologists who have additional training in non-surgical interventions (interventional cardiology and electrophysiology respectively)."
+  },
+  {
+    "id": 4,
+    "name": "Orthopedics",
+    "image": "https://i.ibb.co/fFw6Xsr/orthopedics.png",
+    "desc": "Advances made in surgical technique during the 18th century, such as John Hunter's research on tendon healing and Percival Pott's work on spinal deformity steadily increased the range of new methods available for effective treatment. Robert Chessher, a pioneering British orthopedist, invented the double-inclined plane, used to treat lower-body bone fractures, in 1790.[6] Antonius Mathijsen, a Dutch military surgeon, invented the plaster of Paris cast in 1851. Until the 1890s, though, orthopedics was still a study limited to the correction of deformity in children. One of the first surgical procedures developed was percutaneous tenotomy. This involved cutting a tendon, originally the Achilles tendon, to help treat deformities alongside bracing and exercises. In the late 1800s and first decades of the 1900s, significant controversy arose about whether orthopedics should include surgical procedures at all"
+  },
+  {
+    "id": 5,
+    "name": "Surgery",
+    "image": "https://i.ibb.co/hgHPKqq/surgery.jpg",
+    "desc": "As a general rule, a procedure is considered surgical when it involves cutting of a person's tissues or closure of a previously sustained wound. Other procedures that do not necessarily fall under this rubric, such as angioplasty or endoscopy, may be considered surgery if they involve surgical procedure or settings, such as use of a sterile environment, anesthesia, antiseptic conditions, typical surgical instruments, and suturing or stapling. All forms of surgery are considered invasive procedures; so-called usually refers to an excision that does not penetrate the structure being excised (e.g. laser ablation of the cornea) or to a radiosurgical procedure (e.g. irradiation of a tumor)."
+  },
+  {
+    "id": 6,
+    "name": "Dermatology",
+    "image": "https://i.ibb.co/DGwR7P9/dermatology.jpg",
+    "desc": "Dermatologists have been leaders in the field of cosmetic surgery.[18] Some dermatologists complete fellowships in surgical dermatology. Many are trained in their residency on the use of botulinum toxin, fillers, and laser surgery. Some dermatologists perform cosmetic procedures including liposuction, blepharoplasty, and face lifts.[19][20] Most dermatologists limit their cosmetic practice to minimally invasive procedures. Despite an absence of formal guidelines from the American Board of Dermatology, many cosmetic fellowships are offered in both surgery and laser medicine."
+  }
+]

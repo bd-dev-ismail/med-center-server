@@ -1,0 +1,344 @@
+[
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adane",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 1,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 488,
+ "title": "Neuromuscular disorders",
+ "author": {
+"name": "Dr. Jimmy Dane",
+"visiting_hour": "10.00Am - 3.00PM",
+ "img": "https://i.ibb.co/vBwX9HP/dr-emma-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ajones",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 1,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 428,
+ "title": "Child neurology",
+ "author": {
+"name": "Dr. Abigail Jones",
+"visiting_hour": "11.00Am - 2.00PM",
+"img": "https://i.ibb.co/m9xxN1p/img-abigail-jones-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ahall",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 1,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 500,
+ "title": "General neurology",
+ "author": {
+"name": "Dr. allen hall",
+"visiting_hour": "05.00Am - 1.00PM",
+"img": "https://i.ibb.co/mJRnKq2/img-allen-hall-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6agreen",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 3,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 325,
+ "title": "Stress management",
+ "author": {
+"name": "Dr. Andrew green",
+"visiting_hour": "10.00Am - 7.00PM",
+"img": "https://i.ibb.co/qmsm0k3/img-andrew-green-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6awalker",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 3,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 410,
+ "title": "Cholesterol management",
+ "author": {
+"name": "Dr. Anna Walker",
+"visiting_hour": "10.00Am - 3.00PM",
+"img": "https://i.ibb.co/945fLL9/img-anna-walker-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adoeabc",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 3,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 628,
+ "title": "Heart failure clinic",
+ "author": {
+"name": "Dr. Christopher doe",
+"visiting_hour": "10.00Am - 3.00PM",
+"img": "https://i.ibb.co/4Vb5n0J/img-christopher-doe-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6amiler",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 2,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 475,
+ "title": "Bron Baby care",
+ "author": {
+"name": "Dr. Dan Miller",
+"visiting_hour": "10.00Am - 7.00PM",
+"img": "https://i.ibb.co/LpwMc4R/img-dan-miller-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6aevans",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 2,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 388,
+ "title": "Ultra Expert",
+ "author": {
+"name": "Dr. Emily Evans",
+"visiting_hour": "11.00Am - 3.00PM",
+"img": "https://i.ibb.co/zZ5wkwt/img-emily-evans-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+ "others_info": {
+"is_todays_pick": false,
+"is_trending": true
+ },
+ "category_id": 2,
+ "rating": {
+"number": 4.5,
+"badge": "Excellent"
+ },
+ "fees": 428,
+ "title": "Gynology German",
+ "author": {
+"name": "Dr. Emma Brown",
+"visiting_hour": "9.00Am - 3.00PM",
+"img": "https://i.ibb.co/PF4ZrNp/img-emma-brown-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adanered",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 4,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 525,
+ "title": "Trauma/fracture care",
+ "author": {
+ "name": "Dr. Ethan Red",
+ "visiting_hour": "10.00Am - 3.00PM",
+ "img": "https://i.ibb.co/kXtrBKG/img-ethan-red-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ajoneswright",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 4,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 628,
+ "title": "Joint replacement for hip",
+ "author": {
+ "name": "Dr. Hannan Wright",
+ "visiting_hour": "11.00Am - 2.00PM",
+ "img": "https://i.ibb.co/0B52rHH/img-hannah-wrigth-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6ahallsmith",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 4,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 500,
+ "title": "GFoot/ankle surgery",
+ "author": {
+ "name": "Dr. Jacob Smith",
+ "visiting_hour": "05.00Am - 1.00PM",
+ "img": "https://i.ibb.co/2h4BmYB/img-jacob-smith-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6agreentaylor",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 5,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 255,
+ "title": "Endocrine surgery",
+ "author": {
+ "name": "Dr. Jason Taylor",
+ "visiting_hour": "9.00Am - 7.00PM",
+ "img": "https://i.ibb.co/Sm28ZXS/img-jason-taylor-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6awalkermoore",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 5,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 410,
+ "title": "General surgery",
+ "author": {
+ "name": "Dr. Madison Moore",
+ "visiting_hour": "10.00Am - 3.00PM",
+ "img": "https://i.ibb.co/Xz7yycw/img-madison-moore-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6adoe",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 5,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 628,
+ "title": "Breast surgery",
+ "author": {
+ "name": "Dr. Mia Devis",
+ "visiting_hour": "10.00Am - 3.00PM",
+ "img": "https://i.ibb.co/h7ycKxY/img-mia-devis-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6amilerwok",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 6,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 475,
+ "title": "Specialized treatments for skin",
+ "author": {
+ "name": "Dr. Sandrah Wok",
+ "visiting_hour": "10.00Am - 7.00PM",
+ "img": "https://i.ibb.co/stbfRyk/img-sandrah-wok-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6aevansford",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 6,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 388,
+ "title": "Cosmetic services",
+ "author": {
+ "name": "Dr. Paul Ford",
+ "visiting_hour": "11.00Am - 3.00PM",
+ "img": "https://i.ibb.co/mqJ2KM1/img-paul-ford-2048x1695.jpg"
+ }
+ },
+ {
+ "_id": "0282e0e58a5c404fbd15261f11c2ab6awilson",
+ "others_info": {
+ "is_todays_pick": false,
+ "is_trending": true
+ },
+ "category_id": 6,
+ "rating": {
+ "number": 4.5,
+ "badge": "Excellent"
+ },
+ "fees": 428,
+ "title": "Pediatric dermatology",
+ "author": {
+ "name": "Dr. Micheal Wilson",
+ "visiting_hour": "9.00Am - 3.00PM",
+ "img": "https://i.ibb.co/1XG2NT9/img-michael-wilson-2048x1695.jpg"
+ }
+ }
+]
